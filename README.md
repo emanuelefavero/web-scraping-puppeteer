@@ -26,3 +26,7 @@ _From the Puppeteer GitHub Repo:_
 _From Wikipedia:_
 
 > Web scraping, web harvesting, or web data extraction is data scraping used for extracting data from websites. Web scraping software may access the World Wide Web directly using the Hypertext Transfer Protocol, or through a web browser.
+
+## WHY Scraping?
+
+- Creating your own API by scraping data for a particular niche or use case is quite a valid skill set to have

@@ -2,12 +2,10 @@
 
 This is a simple example of how to use Puppeteer to scrape a website.
 
-_NOTE: Inside this repo there is a `webpage-screenshot` folder, which contains Puppeteer code to take a screenshot of a webpage._
-
 ## Getting Started
 
 - Clone this repo
-- `cd` into the `webpage-screenshot` folder
+- `cd` into one of the project directories
 - Run `npm install`
 - Run `npm start`
 

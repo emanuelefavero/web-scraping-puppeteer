@@ -3,7 +3,7 @@ const puppeteer = require('puppeteer')
 
 // TIP: Be patient when running this function, it could take a while
 
-async function takeWebpageScreenshot() {
+async function run() {
   const browser = await puppeteer.launch()
   const page = await browser.newPage()
 
@@ -60,4 +60,4 @@ async function takeWebpageScreenshot() {
   await browser.close()
 }
 
-takeWebpageScreenshot()
+run()
